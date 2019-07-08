@@ -3,10 +3,12 @@
  Description:  Your-Theme-Name Theme
  Author:       Naoki Ohashi
  Author URI:   https://naoki-is.me/
- Template:     twentyseventeen
+ Template:     lightning
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
-
-/*# sourceMappingURL=style.css.map */
+.wp-block-media-text.alignwide.uotani-test h2 {
+    background: white;
+    border:none;
+}
